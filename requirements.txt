@@ -1,0 +1,9 @@
+gdown
+matplotlib
+networkx
+numpy
+prettytable
+sentencepiece
+tqdm
+transformers
+torch
