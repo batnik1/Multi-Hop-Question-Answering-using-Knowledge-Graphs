@@ -4,6 +4,7 @@ networkx
 numpy
 prettytable
 sentencepiece
+scipy
 tqdm
 transformers
 torch
